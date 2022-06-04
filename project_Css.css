@@ -1,0 +1,627 @@
+
+#header{
+    background-image: url(header1.jpg);
+    height: 100ch;
+    width: 200ch;
+    background-size: 100%;
+
+
+ }
+ .span25{
+     column-width: 3ch;
+ }
+
+ #linktable{
+     padding-left: 2cm;
+     padding-top: 2cm;
+ }
+ .a1{
+     color: white;
+ }
+ #Infogmailcom1{
+     color: #ffffff;
+     text-decoration: none;
+ }
+
+  /*.......links header..........*/
+ #linkheader{
+     background-color: rgb(0, 0, 0, 0.4);
+     height: 10ch;
+
+ }
+ #samllheading{
+     padding-top: 0.5cm;
+     padding-left: 3cm;
+ }
+ .span26{
+     column-width: 0.5cm;
+ }
+ .be1{
+     color: rgb(2, 2, 214);
+     font-size:0.9cm;
+     text-decoration: none;
+
+ }
+ .be2{
+     color: white;
+     font-size:0.9cm;
+     text-decoration: none;
+
+ }
+ .span27{
+     column-width: 4cm;
+ }
+ .span28{
+     column-width: 1cm;
+ }
+ .links{
+     font-size: 2ch;
+     color: rgb(255, 255, 255);
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     text-decoration: none;
+ }
+  .links:hover{
+     color: red;
+  }
+  #home{
+      color: red;
+  }
+
+ 
+  
+
+   /*............Main heading............*/
+  .biglogo1{
+
+     color: white;
+     font-size: 3cm;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     text-decoration: none;
+
+  }
+  .biglogo2{
+     color: rgb(245, 79, 107);
+     font-size: 3cm;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     text-decoration: none;
+
+  }
+  .span29{
+      column-width:2.5ch;
+  }
+  #bigheadingtable{
+      padding-left: 12cm;
+  }
+  /**/
+  #txetp{
+      text-align: center;
+      color: white;
+      font-size: 2.5ch;
+      line-height: 3ch;
+      font-style: oblique;
+  }
+ 
+ 
+
+ 
+ 
+ /*............About Us.............*/
+
+ .span5{
+     column-width: 2ch;
+
+ }
+ #abttable{
+     margin-left: 9%;
+ }
+ .abtinfo { 
+
+  
+    border: 5px double red;
+   border-top: none;
+
+}
+#abimg1 img{
+    width:400px;
+    height: 300px;
+
+    transition: width 1s,height 2s;
+}
+#abimg2 img{
+    width:400px;
+    height: 300px;
+
+    transition: width 1s,height 2s;
+}
+#abimg3 img{
+    width:400px;
+    height: 300px;
+
+    transition: width 1s,height 2s;
+}
+
+#abimg1 img:hover{
+   
+    width: 350px;
+    height: 250px;
+}
+#abimg2 img:hover{
+   
+    width: 350px;
+    height: 250px;
+}
+
+#abimg3 img:hover{
+   
+    width: 350px;
+    height: 250px;
+}
+ /*..........Servises............*/
+
+ #Service1{
+ background-image: url(pic1.jpg);
+     height: 9cm;
+     width: 13.2cm;
+     background-size: 100%;
+     color: rgb(255, 255, 255);
+   
+}
+
+#Service2{
+ background-image: url(pic6.jpg);
+     height: 9cm;
+     width: 13.2cm;
+     background-size: 100%;
+     color: rgb(255, 255, 255);
+   
+     
+}
+
+
+#Service3{
+ background-image: url(pic3.jpg);
+     height: 9cm;
+     width: 13.2cm;
+     background-size: 100%;
+     color: rgb(255, 255, 255);
+   
+     
+}
+
+
+#Service4{
+ background-image: url(pic4.jpg);
+     height: 9cm;
+     width: 13.2cm;
+     background-size: 100%;
+     color: rgb(255, 255, 255);
+}
+
+#Service5{
+ background-image: url(pic5.jpg);
+     height: 9cm;
+     width: 13.2cm;
+     background-size: 100%;
+     color: rgb(255, 255, 255);
+    
+     
+}
+#Service6{
+ background-image: url(pic2.jpg);
+     height: 9cm;
+     width: 13.2cm;
+     background-size: 100%;
+     color: rgb(255, 255, 255);
+    
+     
+}
+
+.opacity{
+ background-color: rgb(0, 0, 0, 0.5);
+     height: 9cm;
+     width: 13.2cm;
+}
+ 
+ /*........register form...........*/
+ input{
+    height: 60px;
+    width: 500px;
+    border-radius: 1px;
+ }
+ #submitbtn{
+     background-color: rgb(235, 27, 96);
+     color: white;
+     border: none;
+ }
+ #imgregister{
+     height: 630px;
+ }
+ #registerdiv{
+     padding-left: 250px;
+ }
+ .span{
+     column-width: 10ch;
+ }
+ .in:hover{
+     background-color: rgb(226, 221, 221);
+ }
+
+ #submitbtn:hover{
+     background-color: rgb(137, 31, 236);
+ }
+ /*........our pricing.........*/
+
+
+
+  .span15{
+     column-width: 25ch;
+ }
+
+ #pricingDiv1{
+ background-image: url(z1.jpg);
+ height: 690px;
+ width: 100%;
+ background-size: 100%; 
+background-attachment: fixed;
+background-repeat: no-repeat; 
+ }
+ .lolo{
+     color: rgb(146, 146, 146);
+ }
+ #o1{
+    
+   
+
+
+
+     width: 110px;
+     height: 40px;
+     background-color: rgb(245, 51, 83);
+     color: white;
+     border: none;
+     margin-left: 35%;
+
+ }
+ #o1:hover{
+     background-color: rgb(68, 21, 240);
+ }
+ #o2{
+     width: 110px;
+     height: 40px;
+     background-color: rgb(255, 0, 242);
+     color: white;
+     border: none;
+     margin-left: 35%;
+
+ }
+ #o2:hover{
+     background-color: rgb(255, 0, 0);
+ }
+ #o3{
+     width: 110px;
+     height: 40px;
+     background-color: rgb(245, 51, 83);
+     color: white;
+     border: none;
+     margin-left: 35%;
+
+ }
+ #o3:hover{
+     background-color: rgb(70, 51, 245);
+ }
+
+ 
+ #pricingDiv2{
+      
+     margin-top: 6ch;
+     background-color: rgb(255, 255, 255);
+     height: 13cm;
+     width: 30cm;
+     margin-left: 9%;
+     border-radius: 1.5ch;
+
+       
+     
+ }
+ #tt{
+     border: 1px solid black;
+     border-top: none;
+     border-bottom: none;
+     width: 10cm;
+    
+     
+ }
+ .ttt{
+     
+     width: 10cm;
+     font-size: 3ch;
+ }
+
+/*.........latest News............*/
+.span7{
+   column-width: 0.5cm;
+}
+#pic1{
+   height: 380px;
+   width: 550px;
+   background-size: 100%;
+}
+#pic2{
+ height: 380px;
+ width: 550px;
+ background-size: 100%;
+
+}
+#latestNews{
+   padding-left: 5cm;
+}
+#picdiv1{
+   background-color: yellow;
+   height: 50px;
+   width: 550px;
+}
+.h2{
+   padding-top: 1ch;
+   padding-left: 2ch;
+}
+#picdiv2{
+   background-color: aqua;
+   height: 50px;
+   width: 550px;
+
+}
+.para{
+   color: gray;
+}
+#pic3{
+ height: 380px;
+ width: 550px;
+ background-size: 100%;
+}
+#pic4{
+ height: 380px;
+ width: 550px;
+ background-size: 100%;
+}
+#picdiv3{
+ background-color: rgb(233, 80, 80);
+   height: 50px;
+   width: 550px;
+
+}
+#picdiv4{
+ background-color:rgb(102, 102, 240);
+   height: 50px;
+   width: 550px;
+}
+/*...........Our Team................. */
+
+#OurTeamDiv{
+   background-color:#3EF5FC ;
+   height: 500px;
+   width: 100%;
+}
+#teamtable{
+   padding-left:230px;
+
+}
+/*..........Contact Us..........*/
+#txtmn{
+   height: 1.5cm;
+   width: 15cm;
+ 
+
+}
+#txtemail{
+ height: 1.5cm;
+ width: 15cm;
+
+}
+#txtmessage{
+   height: 4.5cm;
+   width: 15cm;
+
+}
+#btn{
+   width: 15ch;
+   background-color: blue;
+   color: white;
+   border: none;
+
+}
+#contactSmDiv{
+   background-color: #FB2D52;
+   height: 200px;
+   width: 470px;
+   text-align: center;
+   color: white;
+}
+
+
+.span8{
+   column-width: 10ch;
+}
+#contactTable{
+   padding-left: 7cm;
+}
+#contactPic{
+   padding-left: 3cm;
+}
+.contact:hover{
+   background-color: rgb(206, 201, 201);
+}
+
+#btn:hover{
+   background-color: #ec264a;
+ 
+   
+}
+.mo{
+    font-size: 2ch;
+}
+.jjj{
+    font-size: 0.7cm;
+}
+.lll{
+    font-size: 0.5cm;
+}
+
+
+
+/*..............Instagram Post................*/
+#instagramPostDiv{
+   text-align: center;
+   background-color:  #FB2D52;
+   color: white;
+   height: 49px;
+   width: 300px;
+  margin-left: 15cm;
+  margin-bottom: 0.3ch;
+}
+
+#marquee{
+
+    height: 300px;
+    width: 100%;
+   
+    
+ }
+ 
+#instaImg2 {
+height: 280px;
+width: 370px;
+background-size: 100%;
+}
+
+#instaImg3 {
+height: 280px;
+width: 370px;
+background-size: 100%;
+}
+
+#instaImg4 {
+height: 280px;
+width: 370px;
+background-size: 100%;
+}
+
+#instaImg5 {
+height: 280px;
+width: 370px;
+background-size: 100%;
+}
+#instaImg6 {
+height: 280px;
+width: 370px;
+background-size: 100%;
+}
+#instaImg7 {
+height: 280px;
+width: 370px;
+background-size: 100%;
+}
+
+#instaImg8 {
+height: 280px;
+width: 370px;
+background-size: 100%;
+}
+
+#instaImg9 {
+height: 280px;
+width: 370px;
+background-size: 100%;
+}
+
+#instaImg10 {
+height: 280px;
+width: 370px;
+background-size: 100%;
+}
+
+
+/*Subscribe Our Newsletter*/
+#Newsletter{
+   background-image: url(sagar1.jpg);
+   height: 230px;
+   width: 100%;
+   background-size: 100%;
+   margin-bottom: -0.8cm;
+}
+#email{
+   height: 1.5cm;
+   width: 12cm;
+   margin-left: 11cm;
+
+  
+
+}
+#tnb{
+ height: 1.5cm;
+ width: 25ch;
+ background-color: blue;
+ color: white;
+ text-align: center;
+margin-left: 0.0cm;
+border: none;
+
+
+
+}
+
+#email{
+ background-color: rgb(255, 255, 255, 0.0);
+     border: 2px solid rgb(255, 255, 255);
+    
+}
+
+#tnb:hover{
+   background-color: rgb(250, 66, 66);
+}
+/*..............footer................*/
+#footerDiv{
+  background-color:black;
+   height: 410px;
+   width: 100%;
+}
+.span8{
+   column-width: 0.8cm;
+}
+.ewew{
+   color:gray;
+}
+#fotimg1{
+   height: 10ch;
+   width: 15ch;
+}
+#fotimg2{
+ height: 10ch;
+ width: 15ch;
+
+}
+.span9{
+   column-width: 0.5cm;
+}
+#footertable{
+   padding-left: 6cm;
+}
+.ddd{
+    color: blue;
+}
+.yyy{
+    color: white;
+}
+.bnn{
+    color: blue;
+    font-size: 1cm;
+}
+.nnb{
+    color: white;
+    font-size: 1cm;
+}
+#twitterlink{
+    color: pink;
+     text-decoration: none;
+     font-size: 3ch;
+}
+
